@@ -28,4 +28,17 @@ a {
 .page{
   display: flex;
   flex-direction: row;
+  background-color: #fff;
+}
+
+h1,p{
+  margin: 0;
+}
+
+h1{
+  font-size: 24px;
+}
+h2{
+  font-size: 16px;
+  margin: 0;
 }
