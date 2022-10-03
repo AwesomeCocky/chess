@@ -51,7 +51,7 @@ const ChessBoard = () => {
         pieces.push({image:'rook',x:i,y:7})
       }
     }
-  
+
     for(let i = numbers.length-1; i >= 0 ; i--){
       for(let k = 0; k < letters.length; k++){
         let image = ''
